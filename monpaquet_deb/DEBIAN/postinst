@@ -1,0 +1,3 @@
+#!/bin/bash
+ln -sf /lib/affiche_date.py /usr/bin/affiche-date-margosurina
+chmod +x /usr/bin/affiche-date-margosurina
